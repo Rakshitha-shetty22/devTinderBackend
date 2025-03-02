@@ -1,0 +1,19 @@
+{
+  "name": "devtinder3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app"
+  },
+  "keywords": [
+    "js",
+    "nodejs"
+  ],
+  "author": "Rakshitha shetty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3"
+  }
+}
